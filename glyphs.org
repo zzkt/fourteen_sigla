@@ -1,0 +1,139 @@
+# -*- mode: org; coding: utf-8; -*-
+#+title: glyphs, names, and code points
+
+|------------+-----------------------+---------------------+------------|
+| *code point* | *name*                  | *glyph*               | *notes*      |
+|------------+-----------------------+---------------------+------------|
+| U+F400     |                       |                    |            |
+| U+F401     | SIGLUM HCE            |                   | HCE        |
+| U+F402     | SIGLUM ALP            |                   | ALP        |
+| U+F403     | SIGLUM SHEM           |                   | Shem       |
+| U+F404     | SIGLUM SHAUN          |                   | Shan       |
+| U+F405     | SIGLUM ISSY           |                   | Issy       |
+| U+F406     | SIGLUM T              |                   |            |
+| U+F407     | SIGLUM YAWN           |                   |            |
+| U+F408     | SIGLUM CIRCLE         |                   | The Twelve |
+| U+F409     | SIGLUM ELIPSE         |                   |            |
+| U+F40A     | SIGLUM SQUARE         |                   |            |
+| U+F40B     | SIGLUM MANDALA        |                   |            |
+| U+F40C     | SIGLUM X              |                   | The Four   |
+| U+F40D     | SIGLUM S              |                   |            |
+| U+F40E     | SIGLUM K              |                   |            |
+|------------+-----------------------+---------------------+------------|
+| U+F40F     | ROTATED CAPITAL F 1   |                   |            |
+| U+F410     | ROTATED CAPITAL F 2   |                   |            |
+| U+F411     | ROTATED CAPITAL F 1   |                   |            |
+| U+F412     | ROTATED CAPITAL F 4   |                   |            |
+| U+F413     | REFLECTED CAPITAL F 1 |                   |            |
+| U+F414     | REFLECTED CAPITAL F 2 |                   |            |
+| U+F415     |                       |                    |            |
+| U+F416     |                       |                    |            |
+| U+F417     | ROTATED CAPITAL E 1   |                    |            |
+| U+F418     | ROTATED CAPITAL E 2   |                   |            |
+| U+F419     | ROTATED CAPITAL E 3   |                   |            |
+| U+F41A     |                       |                    |            |
+| U+F41B     |                       |                    |            |
+| U+F41C     |                       |                    |            |
+| U+F41D     |                       |                   |            |
+| U+F41E     |                       |                   |            |
+| U+F41F     |                       |                   |            |
+| U+F420     |                       |                   |            |
+|------------+-----------------------+---------------------+------------|
+| U+F421     | THIN SIGLUM HCE       |                   |            |
+| U+F422     | THIN SIGLUM ALP       |                   |            |
+| U+F423     | THIN SIGLUM SHEM      |                   |            |
+| U+F424     | THIN SIGLUM SHAUN     |                   |            |
+| U+F425     | THIN SIGLUM ISSY      |                   |            |
+| U+F426     | THIN SIGLUM T         |                   |            |
+| U+F427     | THIN SIGLUM YAWN      |                   |            |
+| U+F428     | THIN SIGLUM CIRCLE    |                   |            |
+| U+F429     | THIN SIGLUM ELIPSE    |                   |            |
+| U+F42A     | THIN SIGLUM SQUARE    |                   |            |
+| U+F42B     | THIN SIGLUM MANDAL    |                   |            |
+| U+F42C     | THIN SIGLUM X         |                   |            |
+| U+F42D     | THIN SIGLUM S         |                   |            |
+| U+F42E     | THIN SIGLUM K         |                    |            |
+| U+F42F     |                       |                   |            |
+|------------+-----------------------+---------------------+------------|
+| U+F430     |                       |                   |            |
+| U+F431     | MUSIC                 |          |            |
+| U+F432     |                       |                   |            |
+|            |                       |                     |            |
+|            |                       |                     |            |
+| U+F433     | EUCLIDEAN FIGURE      |  |            |
+|            |                       |                     |            |
+|            |                       |                     |            |
+|            |                       |                     |            |
+| U+F434     | FW FIGURE 1           |               |            |
+|            |                       |                     |            |
+|            |                       |                     |            |
+| U+F435     | FW FIGURE 2           |               |            |
+| U+F436     |                       |                   |            |
+| U+F437     |                       |                   |            |
+| U+F438     |                       |                   |            |
+| U+F439     |                       |                   |            |
+| U+F43A     |                       |                   |            |
+| U+F43B     |                       |                   |            |
+| U+F43C     |                       |                   |            |
+| U+F43D     |                       |                   |            |
+| U+F43E     |                       |                   |            |
+| U+F43F     |                       |                   |            |
+|------------+-----------------------+---------------------+------------|
+| U+F440     | THIN RF 1             |                   |            |
+| U+F441     | THIN RF 2             |                   |            |
+| U+F442     | THIN RF 3             |                   |            |
+| U+F443     | THIN RF 4             |                   |            |
+| U+F444     | THIN RF 5             |                   |            |
+| U+F445     | THIN RF 6             |                   |            |
+| U+F446     | THIN RF 7             |                   |            |
+| U+F447     | THIN RF 8             |                   |            |
+| U+F448     | THIN ROTATED HCE 1    |                   |            |
+| U+F449     | THIN ROTATED HCE 2    |                   |            |
+| U+F44A     | THIN ROTATED HCE 3    |                   |            |
+| U+F44B     | SIGLA MISC            |                   |            |
+| U+F44C     | SIGLA MISC            |                    |            |
+| U+F44D     | SIGLA MISC            |                    |            |
+| U+F44E     | SIGLA MISC            |                    |            |
+| U+F44F     | SIGLA MISC            |                   |            |
+| U+F450     | SIGLA MISC            |                   |            |
+| U+F451     | SIGLA MISC            |                   |            |
+| U+F452     | SIGLA MISC            |                    |            |
+| U+F453     | SIGLA MISC            |                   |            |
+| U+F454     | SIGLA MISC            |                  |            |
+| U+F455     | SIGLA MISC            |                   |            |
+| U+F456     | SIGLA MISC            |                   |            |
+| U+F457     | SIGLA MISC            |                   |            |
+| U+F458     | SIGLA MISC            |                    |            |
+| U+F459     | SIGLA MISC            |                   |            |
+| U+F45A     | SIGLA MISC            |                    |            |
+| U+F45B     | SIGLA MISC            |                   |            |
+| U+F45C     | SIGLA MISC            |                   |            |
+| U+F45D     | SIGLA MISC            |                   |            |
+| U+F45E     | SIGLA MISC            |                    |            |
+| U+F45F     | SIGLA MISC            |                   |            |
+| U+F460     | SIGLA MISC            |                    |            |
+| U+F461     | SIGLA MISC            |                   |            |
+| U+F462     | SIGLA MISC            |                   |            |
+| U+F463     | SIGLA MISC            |                   |            |
+| U+F464     | SIGLA MISC            |                   |            |
+| U+F465     | SIGLA MISC            |                   |            |
+| U+F466     | SIGLA MISC            |                   |            |
+| U+F467     | SIGLA MISC            |                   |            |
+| U+F468     | SIGLA MISC            |                   |            |
+| U+F469     | SIGLA MISC            |                    |            |
+| U+F46A     | SIGLA MISC            |                  |            |
+| U+F46B     | SIGLA MISC            |                   |            |
+| U+F46C     | SIGLA MISC            |                   |            |
+| U+F46D     | SIGLA MISC            |                   |            |
+| U+F46E     | SIGLA MISC            |                    |            |
+| U+F46F     | SIGLA MISC            |                   |            |
+| U+F470     | SIGLA MISC            |                    |            |
+| U+F471     | SIGLA MISC            |                   |            |
+|------------+-----------------------+---------------------+------------|
+
+
+#+BEGIN_SRC julia :session :results output
+for i in 0xF400:0xF471
+    println("| U+$(string(i, base = 16)) | $(Char(i)) |")
+end
+#+END_SRC
