@@ -5,11 +5,11 @@
 * The Sigla
 
 #+begin_quote
-The sigla in Joyce’s manuscripts began as simple abbreviations for the names of characters. Certain inhabitants of FW have been recognized for a long time: Frank Budgen explains that FW only concerns a few people: H. C. Earwicker and his wife Anna Livia Piurabelle, their two sons Shem and Shaun, their daughter Issy, four old men and twelve jurors. In the manuscripts these characters bear the sigla , , , , ,  and respectively. (McHugh)
+The sigla in Joyce’s manuscripts began as simple abbreviations for the names of characters. Certain inhabitants of FW have been recognized for a long time: Frank Budgen explains that FW only concerns a few people: H. C. Earwicker and his wife Anna Livia Piurabelle, their two sons Shem and Shaun, their daughter Issy, four old men and twelve jurors. In the manuscripts these characters bear the sigla , , , , ,  and  respectively. (McHugh)
 #+end_quote
 
 #+begin_quote
-I would suggest the following fourteen sigla as constituting a fundamental alphabet for future studies [...] Admittedly this is incomplete [...] Unfortunately, despite my differentiation of the sigla in this account, there is no absolute determinant as to what is, or what is not, a siglum in the manuscripts.  (McHugh)
+I would suggest the following fourteen sigla as constituting a fundamental alphabet for future studies [...] Admittedly this is incomplete [...] Unfortunately, despite my differentiation of the sigla in this account, there is no absolute determinant as to what is, or what is not, a siglum in the manuscripts. (McHugh)
 #+end_quote
 
 [[file:img/14-sigla-McHugh.png]]
