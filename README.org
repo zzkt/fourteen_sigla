@@ -153,20 +153,15 @@ To encode the Sigla (and various fontly called) as part of a unicode font each r
 
 * Fonts & faces
 
-I'm aware of two previous fonts, which both use ASCII overloading (i.e. LATIN & SIGLUM are indistinguishable) to represent the sigla. Fweet Figla contains 18 sigla [[[https://fweet.org/fweet/pages/fw_font.php][ref]]], and Ian Gunn's [[https://www.riverrun.org.uk/wake/index.html][Wake typeface]] includes many more.
+I'm aware of two previous fonts, which both use ASCII overloading (i.e. LATIN & SIGLUM are indistinguishable) to represent the sigla. [[https://fweet.org/fweet/pages/fw_font.php][Fweet Figla]] contains 18 sigla and Ian Gunn's [[https://www.riverrun.org.uk/wake/index.html][Wake typeface]] includes many more. There are also some suggestions on [[https://www.finnegansweb.com/wiki/index.php/Help:Contents][finnegansweb]] about using existing glyphs to represent the [[https://finnegansweb.com/wiki/index.php/Sigla][sigla]].
 
-The primary advantage of unicode encoding is to enable a single font to typeset the text, accents and various sigla. It also enables the sigla to be located in the text (e.g. search by character) and uniquely identified (typographically at least).
-
+The primary advantage of unicode encoding is to enable a single font to typeset the text, accents and various sigla. It also enables the sigla to be located within the text (e.g. search by character) and uniquely identified (typographically at least).
 
 #+caption: FweetFig.TTF font
 [[file:img/FweetFig_font.png]]
 
 #+caption: WAKE2.TTF font
 [[file:img/WAKE2_font.png]]
-
- https://www.finnegansweb.com/wiki/index.php/Help:Contents
-
-scans & https://finnegansweb.com/wiki/index.php/Sigla
 
 
 ** Riverrun
@@ -249,4 +244,5 @@ The difficulty of absorbing FW results not merely from the highly fragmented nat
 #+end_quote
 
 - Roland McHugh, The Sigla of Finnegans Wake. 1976.
-- [[https://www.finnegansweb.com/wiki/index.php?title=Sigla&oldid=13612]]
+- John Dee, Monas Hieroglyphica. 1564.
+- The [[https://www.finnegansweb.com/wiki/index.php?title=Sigla&oldid=13612][Sigla]] on finnegans web
