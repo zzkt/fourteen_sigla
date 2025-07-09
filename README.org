@@ -24,7 +24,7 @@ I would suggest the following fourteen sigla as constituting a fundamental alpha
 
 * Unicode
 
-To encode the Sigla (and various fontly called) as part of a unicode font each requires; a code point, name, and glyph. The table below provides a starting point, situated in the Private Use Area (U+F401 to U+F471), and may eventually find it's way to somewhere in the Basic Multilingual Plane.
+To encode the Sigla (and various fontly called) as part of a unicode font each requires; a code point, name, and glyph. The table below provides a starting point, situated in the Private Use Area (U+F401 to U+F471), and may eventually find it's way to somewhere in the Supplementary Multilingual Plane.
 
 |------------+------------------------+---------------------+----------------------------------------------|
 | *code point* | *name*                   | *glyph*               | *notes*                                        |
@@ -170,7 +170,9 @@ The Riverrun font uses images from scanned text and glyphs from WAKE2 TTF font i
 
 ** Blue Lagoon
 
-To create a single font for typesetting the text and sigla, it is possible to add the glyphs from Riverrun into another font (e.g. using  'Element > Merge Font' in FontForge). The font Blue Lagoon was created by merging [[https://github.com/CatharsisFonts/Cormorant][Cormorant]] with Riverrun.
+To create a single font for typesetting the text, accents, symbols, and sigla, it's possible to merge the glyphs from Riverrun into another font (e.g. using  'Element > Merge Font' in FontForge). The font Blue Lagoon was created by merging [[https://github.com/CatharsisFonts/Cormorant][Cormorant]] with Riverrun.
+
+[[file:img/blue-lagoon-specimen.jpg]]
 
 * order and appearances
 
@@ -191,6 +193,8 @@ Joyce’s technique of personality condensation is ultimately inseparable from h
  [[file:img/p044.png]]
 
 ** page 119
+
+#+caption:  [119.17] & [119.19]
  [[file:img/p119.png]]
 
 ** page 121
@@ -198,7 +202,14 @@ Joyce’s technique of personality condensation is ultimately inseparable from h
 
 ** page 124
 
+#+caption: [124.8-12]
  [[file:img/p124.png]]
+
+a ssan dspl itch ina, — Yard inquiries pointed out that they
+ad bin “provoked” ay /\ fork, of a grave Brofésor; ath é’s Bréak
+— fast — table; ; actitely professionally piquéd, to = introdtice a
+notion of time [upon a plane (?) st’ ’fac’e’] by ptinct! ingh oles
+(sic) in iSpace?! Deeply religious by nature and position, and
 
 ** page 266
 
@@ -213,11 +224,11 @@ Joyce’s technique of personality condensation is ultimately inseparable from h
  [[file:img/p293.png]]
 
 
-
-As a unicode character 
+As a unicode character 
 
 ** page 299
 
+#+caption: [299.F4]
  [[file:img/p299.png]]
 
 #+begin_quote
@@ -235,7 +246,6 @@ As a unicode character 
     our drawings on the line!
 
 c.f. In Byzantine-era Greek, many "nomina sacra" were abbreviated, e.g David (Δαυίδ) as ΔΑΔ, or Mother of Jesus, (Μήτηρ) as ΜΗΡ or ΜΡΣ.
-
 
 * Further
 
